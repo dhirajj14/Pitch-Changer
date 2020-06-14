@@ -24,6 +24,6 @@ Pitch Changer application allows you to record the the voice and hear it back in
 
 I would love you for the contribution to **Pitch Changer**, check the ``LICENSE`` file for more info.
 
-___
+# 
 
 <p align="center" >Made with ❤️ by Dhiraj Jain</p>
