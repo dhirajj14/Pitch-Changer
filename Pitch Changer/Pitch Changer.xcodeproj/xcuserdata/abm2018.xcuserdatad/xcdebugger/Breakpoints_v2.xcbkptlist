@@ -3,4 +3,146 @@
    uuid = "CC7E3F8E-A443-4703-A912-42E3CC274158"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC21D4F-83B7-40A8-BEEF-CEBBA8AB5E32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Changer/PlaySoundViewController+Audio.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "configureUI(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EF87943-101E-4D10-9292-B7BA985F8305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Changer/PlaySoundViewController+Audio.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "configureUI(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Changer/PlaySoundViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "PlaySoundViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - 58bd2765854846a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.reverbButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - 3268f0a77ac29695"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.reverbButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - 32057fef73a19aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.reverbButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - 4a4ab9d613ffd701"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.reverbButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - cdcacdd4d3d3391b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Pitch_Changer.PlaySoundViewController"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "CBAA74B9-01FD-4287-AF0A-00EEC2963E12 - 602c431c8a2153ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Changer.PlaySoundViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Pitch_Changer.PlaySoundViewController&gt;"
+                  moduleName = "Pitch Changer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abm2018/Documents/Dhiraj/GitHub/Pitch-Changer/Pitch%20Changer/Pitch%20Changer/PlaySoundViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

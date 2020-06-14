@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="H1D-ck-tw9">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="H1D-ck-tw9">
     <device id="retina4_0" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
@@ -158,13 +158,13 @@
                     </view>
                     <navigationItem key="navigationItem" id="HlY-O9-INj"/>
                     <connections>
-                        <outlet property="chipmunkButton" destination="wA5-JN-OHg" id="HrG-dz-UdS"/>
-                        <outlet property="echoButton" destination="4eA-Ja-fq0" id="76o-2W-scV"/>
-                        <outlet property="rabbitButton" destination="QSR-bg-1wR" id="v6N-D5-hWy"/>
-                        <outlet property="reverbButton" destination="iJ4-2Y-L4e" id="52G-tu-E3U"/>
-                        <outlet property="snailButton" destination="CUR-sW-ZWz" id="ClX-co-hPt"/>
-                        <outlet property="stopButton" destination="m4g-Sx-47t" id="E2N-td-cYS"/>
-                        <outlet property="vaderButton" destination="c06-aO-9Z1" id="GvJ-dX-gEx"/>
+                        <outlet property="chipmunkButton" destination="wA5-JN-OHg" id="del-Ac-1FW"/>
+                        <outlet property="echoButton" destination="4eA-Ja-fq0" id="e88-xz-P9c"/>
+                        <outlet property="rabbitButton" destination="QSR-bg-1wR" id="ik9-bT-UYa"/>
+                        <outlet property="reverbButton" destination="iJ4-2Y-L4e" id="dKO-0A-pat"/>
+                        <outlet property="snailButton" destination="CUR-sW-ZWz" id="lu6-TE-BKc"/>
+                        <outlet property="stopButton" destination="m4g-Sx-47t" id="NaI-ka-tK2"/>
+                        <outlet property="vaderButton" destination="c06-aO-9Z1" id="VDU-Vj-537"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ivR-AR-c4r" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
