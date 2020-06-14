@@ -26,4 +26,4 @@ I would love you for the contribution to **Pitch Changer**, check the ``LICENSE`
 
 ___
 
-<p align="center" >Made with ❤️by Dhiraj Jain</p>
+<p align="center" >Made with ❤️ by Dhiraj Jain</p>
