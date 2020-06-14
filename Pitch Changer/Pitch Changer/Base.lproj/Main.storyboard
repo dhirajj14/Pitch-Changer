@@ -39,11 +39,18 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="sbG-fj-nLW">
+                                <rect key="frame" x="72" y="64" width="176" height="94"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
+                            <constraint firstItem="sbG-fj-nLW" firstAttribute="centerX" secondItem="L87-wW-ITZ" secondAttribute="centerX" id="24f-dI-pzn"/>
                             <constraint firstItem="4pT-Wc-FRz" firstAttribute="centerX" secondItem="HCJ-Ay-uIu" secondAttribute="centerX" id="6py-MD-lNR"/>
+                            <constraint firstItem="L87-wW-ITZ" firstAttribute="top" secondItem="sbG-fj-nLW" secondAttribute="bottom" constant="62.5" id="9j5-jI-23m"/>
                             <constraint firstItem="4pT-Wc-FRz" firstAttribute="top" secondItem="HCJ-Ay-uIu" secondAttribute="bottom" constant="8" id="BMd-Bu-2KV"/>
+                            <constraint firstItem="sbG-fj-nLW" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="D5k-Zr-KCj"/>
+                            <constraint firstItem="sbG-fj-nLW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="72" id="FkS-dd-iHB"/>
                             <constraint firstItem="L87-wW-ITZ" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="Gls-9U-3VG"/>
                             <constraint firstItem="L87-wW-ITZ" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Hmw-sS-eOm"/>
                             <constraint firstItem="HCJ-Ay-uIu" firstAttribute="centerX" secondItem="L87-wW-ITZ" secondAttribute="centerX" id="T9H-jl-5Tg"/>
@@ -61,7 +68,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1047.8260869565217" y="117.85714285714285"/>
+            <point key="canvasLocation" x="1046.25" y="117.25352112676056"/>
         </scene>
         <!--Play Sound View Controller-->
         <scene sceneID="07t-eE-AYQ">
@@ -199,5 +206,6 @@
         <image name="Reverb" width="90" height="90"/>
         <image name="Slow" width="90" height="90"/>
         <image name="StopButton" width="170.5" height="170.5"/>
+        <image name="logo" width="400" height="220"/>
     </resources>
 </document>
