@@ -8,7 +8,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Pitch Changer application allows you to record the the voice and hear it back in different pitches such as snail, rabbit, echo, reverb, vader and chipmunk
-___
 
 ## Features
 
@@ -19,3 +18,8 @@ ___
 - [x] Reverb Pitch
 - [x] Vander Pitch
 - [x] Chpmunk Pitch
+
+
+## Contribute
+
+I would love you for the contribution to **Pitch Changer**, check the ``LICENSE`` file for more info.
