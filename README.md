@@ -9,3 +9,13 @@
 
 Pitch Changer application allows you to record the the voice and hear it back in different pitches such as snail, rabbit, echo, reverb, vader and chipmunk
 ___
+
+## Features
+
+- [x] Record Voice
+- [x] Snail Pitch 
+- [x] Rabit Pitch
+- [x] Echo Pitch
+- [x] Reverb Pitch
+- [x] Vander Pitch
+- [x] Chpmunk Pitch
